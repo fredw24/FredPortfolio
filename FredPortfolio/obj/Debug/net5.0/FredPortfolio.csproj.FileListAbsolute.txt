@@ -39,3 +39,4 @@ C:\Users\Fred\source\repos\FredPortfolio\FredPortfolio\obj\Debug\net5.0\FredPort
 C:\Users\Fred\source\repos\FredPortfolio\FredPortfolio\obj\Debug\net5.0\FredPortfolio.genruntimeconfig.cache
 C:\Users\Fred\source\repos\FredPortfolio\FredPortfolio\obj\Debug\net5.0\FredPortfolio.csproj.CopyComplete
 C:\Users\Fred\source\repos\FredPortfolio\FredPortfolio\obj\Debug\net5.0\Razor\Pages\Projects.cshtml.g.cs
+C:\Users\Fred\source\repos\FredPortfolio\FredPortfolio\obj\Debug\net5.0\Razor\Pages\About.cshtml.g.cs
